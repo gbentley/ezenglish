@@ -16373,7 +16373,7 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>There are no related objects.</source>
-        <translation>There are no related objects.</translation>
+        <translation>There is no related content.</translation>
     </message>
     <message>
         <source>Edit selected</source>
@@ -16682,6 +16682,38 @@ If you want to send comments to the approver or view the status use the URL belo
     <message>
         <source>Confirm email</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add an object in the relation</source>
+        <translation>Add existing content</translation>
+    </message>
+    <message>
+        <source>Add an existing object</source>
+        <translation>Add existing content</translation>
+    </message>
+    <message>
+        <source>Browse to add an existing object in this relation</source>
+        <translation>Browse to add existing content</translation>
+    </message>
+    <message>
+        <source>Objects in the relation</source>
+        <translation> </translation>
+    </message>
+    <message>
+        <source>Remove selected elements from the relation</source>
+        <translation>Remove selected</translation>
+    </message>
+    <message>
+        <source>Add objects in the relation</source>
+        <translation> </translation>
+    </message>
+    <message>
+        <source>Add existing objects</source>
+        <translation>Add existing content</translation>
+    </message>
+    <message>
+        <source>Browse to add existing objects in this relation</source>
+        <translation>Browse to add existing content</translation>
     </message>
 </context>
 <context>
