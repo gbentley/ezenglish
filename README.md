@@ -3,6 +3,13 @@ eZ English
 
 An eZ Publish translation extension which aims to simplify the English terms and phrases currently used in eZ Publish.
 
+In addition it aims to tidy up the UI, by:
+
+* only showing elements as needed
+* grouping elements logically
+* consistency of terminology
+
+
 Installation
 ==========================
 
