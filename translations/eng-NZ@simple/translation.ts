@@ -2978,7 +2978,7 @@
     </message>
     <message>
         <source>Do not restore &lt;%name&gt; and return to trash.</source>
-        <translation>Do not restore &lt;%name&gt; and return to trash.</translation>
+        <translation>Do not restore &lt;%name&gt; and return to archive.</translation>
     </message>
     <message>
         <source>Restoring object &lt;%name&gt; [%className]</source>
@@ -3433,7 +3433,7 @@
     <name>design/admin/content/trash</name>
     <message>
         <source>Trash [%list_count]</source>
-        <translation>Trash [%list_count]</translation>
+        <translation>Archive [%list_count]</translation>
     </message>
     <message>
         <source>Invert selection.</source>
@@ -3449,15 +3449,15 @@
     </message>
     <message>
         <source>Empty trash</source>
-        <translation>Empty trash</translation>
+        <translation>Empty archive</translation>
     </message>
     <message>
         <source>Permanently remove all items from the trash.</source>
-        <translation>Permanently remove all items from the trash.</translation>
+        <translation>Permanently remove all archived content.</translation>
     </message>
     <message>
         <source>There are no items in the trash</source>
-        <translation>There are no items in the trash</translation>
+        <translation>There is no archived content</translation>
     </message>
     <message>
         <source>Name</source>
@@ -3489,7 +3489,7 @@
     </message>
     <message>
         <source>Trash (%list_count)</source>
-        <translation>Trash (%list_count)</translation>
+        <translation>Archive (%list_count)</translation>
     </message>
 </context>
 <context>
@@ -5082,7 +5082,7 @@
     </message>
     <message>
         <source>Removed nodes can be retrieved later. You will find them in the trash.</source>
-        <translation>Removed nodes can be retrieved later. You will find them in the trash.</translation>
+        <translation>Removed content can be retrieved later from the Archive.</translation>
     </message>
     <message>
         <source>Removing node assignment of %1</source>
@@ -5137,7 +5137,7 @@
     </message>
     <message>
         <source>Move to trash</source>
-        <translation>Move to trash</translation>
+        <translation>Archive</translation>
     </message>
     <message>
         <source>OK</source>
@@ -5157,7 +5157,7 @@
     </message>
     <message>
         <source>If &quot;Move to trash&quot; is checked, the items will be moved to the trash instead of being permanently deleted.</source>
-        <translation>If &quot;Move to trash&quot; is checked, the items will be moved to the trash instead of being permanently deleted.</translation>
+        <translation>If &quot;Archive&quot; is checked, the items will be moved to the Archive instead of being permanently deleted.</translation>
     </message>
     <message>
         <source>Confirm translation removal</source>
@@ -6994,7 +6994,7 @@ Note: The packages will not be uninstalled.</translation>
     </message>
     <message>
         <source>Trash</source>
-        <translation>Trash</translation>
+        <translation>Archive</translation>
     </message>
     <message>
         <source>Small</source>
@@ -7010,7 +7010,7 @@ Note: The packages will not be uninstalled.</translation>
     </message>
     <message>
         <source>View and manage the contents of the trash bin.</source>
-        <translation>View and manage the contents of the trash bin.</translation>
+        <translation>View and manage archived content.</translation>
     </message>
     <message>
         <source>Change the left menu width to small size.</source>
@@ -7045,7 +7045,7 @@ Note: The packages will not be uninstalled.</translation>
     </message>
     <message>
         <source>Trash</source>
-        <translation>Trash</translation>
+        <translation>Archive</translation>
     </message>
     <message>
         <source>Small</source>
@@ -7061,7 +7061,7 @@ Note: The packages will not be uninstalled.</translation>
     </message>
     <message>
         <source>View and manage the contents of the trash bin.</source>
-        <translation>View and manage the contents of the trash bin.</translation>
+        <translation>View and manage archived content.</translation>
     </message>
     <message>
         <source>Change the left menu width to small size.</source>
@@ -7363,7 +7363,7 @@ Note: The packages will not be uninstalled.</translation>
     </message>
     <message>
         <source>Trash</source>
-        <translation>Trash</translation>
+        <translation>Archive</translation>
     </message>
     <message>
         <source>Small</source>
@@ -7387,7 +7387,7 @@ Note: The packages will not be uninstalled.</translation>
     </message>
     <message>
         <source>View and manage the contents of the trash bin.</source>
-        <translation>View and manage the contents of the trash bin.</translation>
+        <translation>View and manage the archived content.</translation>
     </message>
     <message>
         <source>Change the left menu width to small size.</source>
@@ -12722,8 +12722,8 @@ Note: The packages will not be uninstalled.</translation>
         <translation>Rejected</translation>
     </message>
     <message>
-        <source> (in trash)</source>
-        <translation> (in trash)</translation>
+        <source> (archived)</source>
+        <translation> (archived)</translation>
     </message>
     <message>
         <source>All</source>
@@ -17602,7 +17602,7 @@ If you want to send comments to the approver or view the status use the URL belo
     <name>design/standard/content/trash</name>
     <message>
         <source>Trash</source>
-        <translation>Trash</translation>
+        <translation>Archive</translation>
     </message>
     <message>
         <source>Name</source>
@@ -17630,7 +17630,7 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>Trash is empty</source>
-        <translation>Trash is empty</translation>
+        <translation>Archive is empty</translation>
     </message>
     <message>
         <source>Select all</source>
@@ -17642,7 +17642,7 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>Empty Trash</source>
-        <translation>Empty Trash</translation>
+        <translation>Empty Archive</translation>
     </message>
 </context>
 <context>
@@ -18594,7 +18594,7 @@ If you want to send comments to the approver or view the status use the URL belo
     </message>
     <message>
         <source>Trash</source>
-        <translation>Trash</translation>
+        <translation>Archive</translation>
     </message>
     <message>
         <source>Change Password</source>
@@ -18748,7 +18748,7 @@ If you do all the children will be removed as well.</translation>
     </message>
     <message>
         <source>Removed nodes can be retrieved later. You will find them in the trash.</source>
-        <translation>Removed nodes can be retrieved later. You will find them in the trash.</translation>
+        <translation>Removed content can be retrieved later, from the Archive.</translation>
     </message>
     <message>
         <source>Confirm</source>
@@ -18764,7 +18764,7 @@ If you do all the children will be removed as well.</translation>
     </message>
     <message>
         <source>Move to trash</source>
-        <translation>Move to trash</translation>
+        <translation>Archive</translation>
     </message>
     <message>
         <source>Are you sure you want to remove these items?</source>
@@ -18792,7 +18792,7 @@ If you do all the children will be removed as well.</translation>
     </message>
     <message>
         <source>If %trashname is checked you will find the removed items in the trash afterward.</source>
-        <translation>If %trashname is checked you will find the removed items in the trash afterward.</translation>
+        <translation>If %trashname is checked you will find the removed items in the archive afterward.</translation>
     </message>
 </context>
 <context>
@@ -26912,7 +26912,7 @@ your account.</translation>
     </message>
     <message>
         <source>Trash</source>
-        <translation type="unfinished">Trash</translation>
+        <translation type="unfinished">Archive</translation>
     </message>
     <message>
         <source>Versions</source>
